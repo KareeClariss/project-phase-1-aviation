@@ -6,6 +6,7 @@ Aviation Accident Patterns in the United States (1962–2023): A Data-Driven Saf
 
 Air travel is generally safe, but when accidents occur, the consequences can be severe. This project analyzes aviation accident data from 1962 to 2023 in the United States. By identifying trends in location, time, weather, and injury outcomes, we aim to provide actionable insights that can help improve aviation safety and reduce future risks.
 
+For a tablaeu presentation refer to this [link](https://kaggle.tech/login)
 **Project Objectives**
 
 * Identify the states and cities with the highest number of aviation accidents.
